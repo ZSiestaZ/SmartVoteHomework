@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartVoteHomework</string>
+    <string name="court_down_to_election_day">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="nameTH">สำนักงานคณะกรรมการการเลือกตั้ง</string>
+    <string name="nameEng">ELECTION COMMISSION OF THAILAND</string>
+    <string name="daysNum">365</string>
+    <string name="hoursNum">24</string>
+    <string name="minutesNum">60</string>
+    <string name="secondsNum">60</string>
+    <string name="days">วัน</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="minutes">นาที</string>
+    <string name="seconds">วินาที</string>
+    <string name="next">ถัดไป</string>
+    <string name="enterCitizenNum">กรอกเลขบัตรประชาชน</string>
+    <string name="check">ตรวจสอบสิทธิการเลือกตั้ง</string>
+</resources>
